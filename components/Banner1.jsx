@@ -23,6 +23,7 @@ const Banner1 = () => {
           <h1 className="text-6xl font-bold">
             Master your life <br /> by mastering <br /> emotions{" "}
           </h1>
+          <p>By Divyansh Chourasia</p>
         </motion.div>
 
         <div className="flex gap-12 py-8">
